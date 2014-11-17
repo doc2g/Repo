@@ -14,6 +14,7 @@
 Якщо ви хочете пройти реєстрацію на нашому сайті, відправте своє <b>ім'я</b> та <b>прізвище</b> на цю електронну пошту <h3><b>doc2g@mail.ru</b></h3> і ви у відповідь отримаєте повідомлення від бота в якому будет ваш згенерований <b>пароль</b> який ви пізніше у налаштуваннях можете змінити на свій.
 </center>
  </div> -->
+ rteertteteter
  <div class="note_add_bg support_bg" id="step1" style="margin-top:-10px">
 <center><h3>Реєстрацію закрито! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b></h3></center>
 <!-- <div class="err_red no_display frmero" id="err" style="margin-bottom:0px"></div>
